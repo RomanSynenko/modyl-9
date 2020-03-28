@@ -240,6 +240,7 @@ img{
     background: #ff4e50;
     color: #fff;
 }
+@media (orientation: landscape) {.wrapper-header{width: 140px;} }
 @media (orientation: landscape) {
     .navigation {
         flex-direction: row;
